@@ -8,7 +8,7 @@ Build interactive Power BI dashboards and reports
 Perform data cleaning and transformation using Power Query
 Create DAX measures and KPI visualizations
 Analyze business and student performance data
-Train students and professionals in Data Analytics & Power BI
+Train students and professionals in Data Analytics & Power BI.
 Conduct Campus Recruitment Training (CRT) programs
 🔹 Technical Skills
 Power BI
