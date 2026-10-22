@@ -1,7 +1,7 @@
 Hi, I'm Jaidev Injarapu 👋
 Power BI Associate | Data Analytics Trainer | Learning & Development Expert
 
-I am a passionate Power BI Associate and professional trainer with 25+ years of experience in training, employability skills, and analytics education. I specialize in transforming raw data into meaningful business insights using Microsoft Power BI.
+I am a passionate Power BI Associate and professional trainer with 20+ years of experience in training, employability skills, and analytics education. I specialize in transforming raw data into meaningful business insights using Microsoft Power BI.
 
 🔹 What I Do
 Build interactive Power BI dashboards and reports
@@ -36,9 +36,7 @@ Employability Training
 Business Intelligence
 Career Guidance
 🔹 Connect With Me
-🌐 Website: www.way2careersolutions.com
-📧 Email: info@way2careersolutions.com
-💼 Organization: Way2Careers Solutions LLP
+🌐 ijaidev@gmail.com, jaiinjarapu@gmail.com 
 
 “Data is powerful when it tells a story.”
 
